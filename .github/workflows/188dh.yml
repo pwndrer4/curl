@@ -30,4 +30,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: curl --referer https://www.z68p.cn/ --user-agent 'Chrome/54.0 (Windows NT 10.0)' https://www.188dh.cn/
+        run: sh dh.sh
